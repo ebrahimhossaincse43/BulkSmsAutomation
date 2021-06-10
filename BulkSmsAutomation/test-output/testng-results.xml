@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-06-10T22:51:09 BDT" name="Default suite" finished-at="2021-06-10T22:51:40 BDT" duration-ms="30451">
+    <groups>
+    </groups>
+    <test started-at="2021-06-10T22:51:09 BDT" name="Default test" finished-at="2021-06-10T22:51:40 BDT" duration-ms="30451">
+      <class name="com.automation.DriverSetup">
+        <test-method is-config="true" signature="setDriver()[pri:0, instance:com.automation.DriverSetup@7a35b0f5]" started-at="2021-06-10T22:51:06 BDT" name="setDriver" finished-at="2021-06-10T22:51:09 BDT" duration-ms="3037" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setDriver -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.automation.DriverSetup@7a35b0f5]" started-at="2021-06-10T22:51:40 BDT" name="close" finished-at="2021-06-10T22:51:40 BDT" duration-ms="145" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.automation.DriverSetup -->
+      <class name="com.automation.BulkSMSTest">
+        <test-method signature="Test()[pri:0, instance:com.automation.BulkSMSTest@5e2c3d18]" started-at="2021-06-10T22:51:09 BDT" name="Test" finished-at="2021-06-10T22:51:40 BDT" duration-ms="30388" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+      </class> <!-- com.automation.BulkSMSTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
